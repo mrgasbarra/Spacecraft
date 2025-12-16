@@ -30,7 +30,7 @@ const spacecraft = {
 };
 
 // Call the method
-spacecraft.receiveMessage("All Systems Go");
+spacecraft.receiveMessage("All Systems Go"); 
 
 
 /*
